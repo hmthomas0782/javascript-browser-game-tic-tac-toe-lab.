@@ -1,0 +1,3 @@
+[submodule "code/ga/spaceman/spaceman"]
+	path = code/ga/spaceman/spaceman
+	url = https://github.com/hmthomas0782/spaceman.git
